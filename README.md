@@ -8,6 +8,7 @@
 
 ## Key Features :
 - You can Run this script in any directory/folder that are unsorted with all types of file formats(eg: .jpg, .pdf etc).
+- Supported for Android (Termux app required)
 - This Will create a new Folder following there formats(eg: .pdf --> Documents Folder:
 
 ## Supported Formats :
@@ -19,7 +20,11 @@
 - .py
 - .js
 - .html
-- .zip 
+- .zip
+
+## Screenshot
+- This script was  using termux(android)
+  ![screenshot](screenshots/photo_2023-07-22_12-30-39.jpg)
 
 ## How to Run :
 
