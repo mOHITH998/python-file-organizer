@@ -23,8 +23,8 @@
 - .zip
 
 ## Screenshot
-- This script was  using termux(android)
-  ![screenshot](screenshots/photo_2023-07-22_12-30-39.jpg)
+- Script using termux(android)
+  ! [screenshot] (screenshots/photo_2023-07-22_12-30-39.jpg)
 
 ## How to Run :
 
