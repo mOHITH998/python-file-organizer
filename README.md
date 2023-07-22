@@ -23,7 +23,7 @@
 - .zip
 
 ## Screenshot
-  using python script on Termux app (Android)
+  python script on Termux app (Android)
     
   ![screenshot](https://i.imgur.com/nqPqi6Y.jpeg)
 
