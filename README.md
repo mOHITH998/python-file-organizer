@@ -23,7 +23,8 @@
 - .zip
 
 ## Screenshot
-- Script using termux(android)
+  using python script on Termux app (Android)
+    
   ![screenshot](https://i.imgur.com/nqPqi6Y.jpeg)
 
 ## How to Run :
