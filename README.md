@@ -1,6 +1,5 @@
 # python-file-organizer
-## A Basic script to organize files into a Folder following its formats.
-### This script will run to sort all files(unsorted) and moves into their respective directories(Documents, Audio, etc).
+- A Basic script to organize files into a Folder following its formats. This script can be used to sort all files(unsorted) and moves into their respective directories(Documents, Audio, etc).
 
 ## Requirements :
 - python 3.9 or higher
