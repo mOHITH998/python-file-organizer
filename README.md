@@ -24,7 +24,7 @@
 
 ## Screenshot
 - Script using termux(android)
-  ! [screenshot] (screenshots/photo_2023-07-22_12-30-39.jpg)
+  [! [screenshot] (screenshots/photo_2023-07-22_12-30-39.jpg)](https://i.imgur.com/nqPqi6Y.jpeg)
 
 ## How to Run :
 
