@@ -1,6 +1,6 @@
 import os
 import sys
-from shutil import move, copytree
+from shutil import move
 arrList = os.listdir()
 path = os.getcwd()
 # newPath = '\py\Downloads\Organized'+'\Organized'
