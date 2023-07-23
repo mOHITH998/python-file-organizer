@@ -31,8 +31,6 @@ for key in extensions:
             if (file.endswith(key)):
                 if not os.path.exists(newPath):
                     os.mkdir(newPath)
-                else:
-                    print("folder %s already exists" % newPath)
             # directory = os.mkdir(newPath)
             # destination = os.path.join(newPath, extensions[key])
             # # destination = os.path.join(newPath, extensions[key])
